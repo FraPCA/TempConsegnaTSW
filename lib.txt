@@ -1,0 +1,1 @@
+Le lib contenute in libTXT.zip devono essere aggiunte alla cartella tomcat/lib per far funzionare correttamente il progetto.
